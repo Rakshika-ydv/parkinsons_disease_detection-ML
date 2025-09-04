@@ -58,5 +58,3 @@ The model is built using **Support Vector Machine (SVM)** and achieves high accu
   - **Training Accuracy:** ~89%  
   - **Test Accuracy:** ~87%  
 - The model effectively distinguishes between healthy and Parkinson’s patients.  
-
-   git clone https://github.com/your-username/parkinsons-disease-ml.git
